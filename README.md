@@ -26,6 +26,7 @@ A collection of resources about agent engineering.
 - [Wide Research: Beyond the Context Window](https://manus.im/blog/manus-wide-research-solve-context-problem)
 - [Towards a Science of Scaling Agent Systems](https://arxiv.org/abs/2512.08296)
 - [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
+- [Context Engineering in Manus](https://rlancemartin.github.io/2025/10/15/manus/) - Lance Martin
 
 ## Architecture
 
