@@ -18,7 +18,6 @@ A collection of resources about agent engineering.
 
 - [Building effective agents](https://www.anthropic.com/research/building-effective-agents) - Anthropic's guide on workflows vs agents, when to use each
 - [What is an agent?](https://blog.langchain.dev/what-is-an-agent/) - LangChain's take on defining agents
-- How Do We Prototype Agents Rapidly?
 
 ## Context Engineering
 
