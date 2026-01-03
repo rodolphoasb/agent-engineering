@@ -25,6 +25,7 @@ A collection of resources about agent engineering.
 - [Context Engineering for AI Agents: Lessons from Building Manus](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 - [Wide Research: Beyond the Context Window](https://manus.im/blog/manus-wide-research-solve-context-problem)
 - [Towards a Science of Scaling Agent Systems](https://arxiv.org/abs/2512.08296)
+- [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 
 ## Architecture
 
